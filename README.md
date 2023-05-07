@@ -23,9 +23,13 @@ ejecutable.sh
 
 El proyecto consta de 5 prácticas que se conforman con los siguientes contenidos:
 * Práctica 1:
+  * Práctica 1.A:
+  * Práctica 1.B:
 * Práctica 2:
 * Práctica 3:
 * Práctica 4:
+  * Práctica 4.A:
+  * Práctica 4.B:
 * Práctica 5:
 
 ## Proyecto final
